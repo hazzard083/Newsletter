@@ -1,0 +1,21 @@
+.cardgroup {
+  display: flex;
+  gap: 40px;
+}
+
+.icon-cardgroup {
+  width: 48px;
+}
+
+.cardproduct {
+  width: 274px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.cardproduct__heading{
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}

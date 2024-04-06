@@ -1,0 +1,7 @@
+:root {
+  --black: #09090A;
+  --white: #FFFFFF;
+  --gray: #C4C4CC;
+  --gray-800: #202024;
+  --purple-linear: linear-gradient(90deg, #996DFF, #C7AFFF);
+}
